@@ -11,7 +11,10 @@ See [your demo video title here] (https://link_to_your_video)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/pic1.png" height="400" alt="Screenshot"/>
+<img src="screenshots/pic1.5.png" height="400" alt="Screenshot"/>
+<img src="screenshots/pic2.png" height="400" alt="Screenshot"/>
+<img src="screenshots/pic3.png" height="400" alt="Screenshot"/>
 
 ## Acknowledgments
 I used this tutorial to create the tab layout:
