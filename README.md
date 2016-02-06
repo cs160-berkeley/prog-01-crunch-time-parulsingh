@@ -20,4 +20,3 @@ See [Crunch Time Demo] (https://youtu.be/zipLS8hfJZE)
 I used this tutorial to create the tab layout:
 http://www.truiton.com/2015/06/android-tabs-example-fragments-viewpager/
 
-*Feel free to enhance your README. For Markdown syntax, see [the GitHub Guides](https://guides.github.com/features/mastering-markdown/). Remove this line in your submission.*
